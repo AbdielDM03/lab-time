@@ -37,8 +37,21 @@
 // substrac(1, 2, 3, 4)
 
 // -------------------------------------------------------------------------
-function divide(no1, no2){
-    alert(no1/no2)
+/*function divide(no1, no2){
+  alert(no1/no2)
     alert(no1%no2)
 }
-divide(10, 5)
+divide(10, 5)*/
+// =============================================================
+    /*let newArr = ['zebra', 'hey', 'yes']
+
+    console.log(newArr)
+
+    console.log(newArr.length) */
+ 
+    let bestColor = ['green', 'blue', 'red', 'black']
+
+  //  for (let i = 0; i < bestColor.length; i++){
+   //     console.log( bestColor [i])
+    //}
+    bestColor.forEach ((x, i) => console.log( x))
