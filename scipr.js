@@ -54,4 +54,4 @@ divide(10, 5)*/
   //  for (let i = 0; i < bestColor.length; i++){
    //     console.log( bestColor [i])
     //}
-    bestColor.forEach ((x, i) => console.log( x))
+    bestColor.forEach ((x, i) => console.log(x))
